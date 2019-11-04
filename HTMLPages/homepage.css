@@ -1,0 +1,36 @@
+.content-card {
+
+    width: 225px;
+    height: 235px;
+    align-self: center;
+    background-color: purple;
+}
+
+.content-card: hover {
+    transform: scale(10px);
+    transition: all 1s ease-in;
+}
+
+
+
+.content-text {
+    color: white;
+    margin: auto;
+    font-family: 'Staatliches', cursive;
+    background color: black;
+    float: center;
+}
+
+
+.content-container {
+    width: 100%;
+    height: 100vh;
+    margin-top: auto;
+    margin-bottom: auto;
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
+
+.content-wrapper{
+    max-width: 900px;
+    margin: center;
+}
